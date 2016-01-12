@@ -5,7 +5,7 @@ date:       2016-01-11
 author:     Eric Kang
 summary:    본쉘에 대해 간략히 설명한다.
 categories: Linux
-thumbnail:  heart
+thumbnail:  gears
 tags:
  - linux
  - shell

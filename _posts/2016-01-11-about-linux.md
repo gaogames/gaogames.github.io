@@ -5,7 +5,7 @@ date:       2016-01-11
 author:     Eric Kang
 summary:    앞으로 리눅스 관련 자료를 모아서 리눅스에 익숙하지 않은 사람들에게 도움을 주려고 한다.
 categories: Linux
-thumbnail:  heart
+thumbnail:  gears
 tags:
  - linux
  - study
